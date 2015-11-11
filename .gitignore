@@ -1,0 +1,5 @@
+# ignoramos los bytecodes 
+*.class
+
+#ignoramos la carpeta doc
+./doc/
